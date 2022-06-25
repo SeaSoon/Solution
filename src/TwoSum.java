@@ -2,6 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * 两数之和
+ */
 public class TwoSum {
     public static void main(String[] args) {
         int[] nums = {3, 3};

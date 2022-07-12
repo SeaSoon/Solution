@@ -1,3 +1,5 @@
+package string;
+
 public class LengthOfLongestSubstring {
 
     /**
